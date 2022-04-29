@@ -1,0 +1,169 @@
+[
+    {
+      "name": "Sebastian",
+      "age": "21",
+      "pokemons": [
+        {
+            "name": "Charmander",
+            "HP": "50",
+            "attack": "4",
+            "specialAttack": "-1",
+            "defence": "3",
+            "specialDefence": "2",
+            "abilities": [
+            {
+                "damage": "4",
+                "stun": "true",
+                "dodge": "false",
+                "cooldown": "4"
+            },
+            {
+                "damage": "7",
+                "stun": "false",
+                "dodge": "false",
+                "cooldown": "6"
+            }
+            ],
+            "items": [
+            "SmallSword",
+            "Vitamins"
+            ]
+        },
+        {
+            "name": "Psyduck",
+            "HP": "43",
+            "attack": "3",
+            "specialAttack": "-1",
+            "defence": "3",
+            "specialDefence": "3",
+            "abilities": [
+            {
+                "damage": "2",
+                "stun": "false",
+                "dodge": "false",
+                "cooldown": "4"
+            },
+            {
+                "damage": "2",
+                "stun": "true",
+                "dodge": "false",
+                "cooldown": "5"
+            }
+            ],
+            "items": [
+            "Coat",
+            "Vest"
+            ]
+        },
+        {
+            "name": "Jigglypuff",
+            "HP": "34",
+            "attack": "4",
+            "specialAttack": "-1",
+            "defence": "2",
+            "specialDefence": "3",
+            "abilities": [
+            {
+                "damage": "4",
+                "stun": "true",
+                "dodge": "false",
+                "cooldown": "4"
+            },
+            {
+                "damage": "3",
+                "stun": "true",
+                "dodge": "false",
+                "cooldown": "4"
+            }
+            ],
+            "items": [
+            "Vitamins"
+            ]
+        }
+      ]
+    },
+    {
+      "name": "Andreea",
+      "age": "24",
+      "pokemons": [
+        {
+            "name": "Squirtle",
+            "HP": "60",
+            "attack": "-1",
+            "specialAttack": "3",
+            "defence": "5",
+            "specialDefence": "5",
+            "abilities": [
+            {
+                "damage": "4",
+                "stun": "false",
+                "dodge": "false",
+                "cooldown": "3"
+            },
+            {
+                "damage": "2",
+                "stun": "true",
+                "dodge": "false",
+                "cooldown": "2"
+            }
+            ],
+            "items": [
+            "SmallSword",
+            "Shield"
+            ]
+        },
+        {
+            "name": "Eevee",
+            "HP": "39",
+            "attack": "-1",
+            "specialAttack": "4",
+            "defence": "3",
+            "specialDefence": "3",
+            "abilities": [
+            {
+                "damage": "5",
+                "stun": "false",
+                "dodge": "false",
+                "cooldown": "3"
+            },
+            {
+                "damage": "3",
+                "stun": "true",
+                "dodge": "false",
+                "cooldown": "3"
+            }
+            ],
+            "items": [
+            "XmasTree",
+            "MagicWand",
+            "Coat"
+            ]
+        },
+        {
+            "name": "Meowth",
+            "HP": "41",
+            "attack": "3",
+            "specialAttack": "-1",
+            "defence": "4",
+            "specialDefence": "2",
+            "abilities": [
+            {
+                "damage": "5",
+                "stun": "false",
+                "dodge": "true",
+                "cooldown": "4"
+            },
+            {
+                "damage": "1",
+                "stun": "false",
+                "dodge": "true",
+                "cooldown": "3"
+            }
+            ],
+            "items": [
+            "MagicWand"
+            ]
+        }
+      ]
+    }
+  ]

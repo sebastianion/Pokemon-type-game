@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Sebastian",
+    "age": "21",
+    "pokemons": [
+      {
+        "name": "Pikachu",
+        "HP": "35",
+        "attack": "-1",
+        "specialAttack": "4",
+        "defence": "2",
+        "specialDefence": "3",
+        "abilities": [
+          {
+            "damage": "6",
+            "stun": "false",
+            "dodge": "false",
+            "cooldown": "4"
+          },
+          {
+            "damage": "4",
+            "stun": "true",
+            "dodge": "true",
+            "cooldown": "5"
+          }
+        ],
+        "items": [
+          "Shield",
+          "Vest",
+          "SmallSword"
+        ]
+      },
+      {
+        "name": "Snorlax",
+        "HP": "62",
+        "attack": "3",
+        "specialAttack": "-1",
+        "defence": "6",
+        "specialDefence": "4",
+        "abilities": [
+          {
+            "damage": "4",
+            "stun": "true",
+            "dodge": "false",
+            "cooldown": "5"
+          },
+          {
+            "damage": "0",
+            "stun": "false",
+            "dodge": "ture",
+            "cooldown": "5"
+          }
+        ],
+        "items": [
+          "Shield",
+          "Coat"
+        ]
+      },
+      {
+        "name": "Vulpix",
+        "HP": "36",
+        "attack": "5",
+        "specialAttack": "-1",
+        "defence": "2",
+        "specialDefence": "4",
+        "abilities": [
+          {
+            "damage": "8",
+            "stun": "true",
+            "dodge": "false",
+            "cooldown": "6"
+          },
+          {
+            "damage": "2",
+            "stun": "false",
+            "dodge": "true",
+            "cooldown": "7"
+          }
+        ],
+        "items": [
+          "Vest",
+          "XmasTree",
+          "Vitamins"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Andreea",
+    "age": "24",
+    "pokemons": [
+      {
+        "name": "Bulbasaur",
+        "HP": "42",
+        "attack": "-1",
+        "specialAttack": "5",
+        "defence": "3",
+        "specialDefence": "1",
+        "abilities": [
+          {
+            "damage": "6",
+            "stun": "false",
+            "dodge": "false",
+            "cooldown": "4"
+          },
+          {
+            "damage": "5",
+            "stun": "false",
+            "dodge": "false",
+            "cooldown": "3"
+          }
+        ],
+        "items": [
+          "MagicWand",
+          "Vitamins"
+        ]
+      },
+      {
+        "name": "Charmander",
+        "HP": "50",
+        "attack": "4",
+        "specialAttack": "-1",
+        "defence": "3",
+        "specialDefence": "2",
+        "abilities": [
+          {
+            "damage": "4",
+            "stun": "true",
+            "dodge": "false",
+            "cooldown": "4"
+          },
+          {
+            "damage": "7",
+            "stun": "false",
+            "dodge": "false",
+            "cooldown": "6"
+          }
+        ],
+        "items": [
+          "SmallSword",
+          "Vest",
+          "Shield"
+        ]
+      },
+      {
+        "name": "Jigglypuff",
+        "HP": "34",
+        "attack": "4",
+        "specialAttack": "-1",
+        "defence": "2",
+        "specialDefence": "3",
+        "abilities": [
+          {
+            "damage": "4",
+            "stun": "true",
+            "dodge": "false",
+            "cooldown": "4"
+          },
+          {
+            "damage": "3",
+            "stun": "true",
+            "dodge": "false",
+            "cooldown": "4"
+          }
+        ],
+        "items": [
+          "XmasTree"
+        ]
+      }
+    ]
+  }
+]
